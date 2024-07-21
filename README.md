@@ -8,10 +8,13 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"> </a>
 <h1 align="center">Привет, я Вячеслав Цуцурин</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Разработчик на Python</h3>
+<h3 align="center">
+Разработчик на Python.<br/>
+Поскольку программирование оказалось для меня довольно интересным хобби, я изучаю методы и способы, которые могут упросить рабу других людей.
+</h3>
+ 
 
 
-:man_technologist:
 ### :hammer_and_wrench:Технологии:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
