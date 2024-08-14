@@ -8,7 +8,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"> </a>
  
 <a href="https:linkedin.com/in/v-tsutsurin">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=telegram&logoColor=white"> </a>
+<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"> </a>
 
 <h1 align="center">Привет, я Вячеслав Цуцурин</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
